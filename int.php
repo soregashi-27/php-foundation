@@ -22,6 +22,9 @@
     // echo 10 * 4 + 5 - 2;
     $x = 10 * 4 + 5 - 1;
     echo $x;
+    echo '<br>';
+    echo "Hey what's up!" . "Do you even deploy some apps?";
+    //ドットは結合計算の演算子になる
      ?>
 
 </body>
