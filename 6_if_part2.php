@@ -26,6 +26,9 @@
         if ('文字列') {
             echo 'これもtrueやで';
         }
+
+        //castする これはtrueになる（必ずbool型を入れること）
+        car_dump((bool) 'MOJIRETSU');
     ?>
 </body>
 
